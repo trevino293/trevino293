@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Trevino! 👋
 
-<!--
-**trevino293/trevino293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 💼 I’m currently working on various projects in web development, data science, and more.
+- 💬 Ask me about Python, JavaScript, or any other programming-related topics.
+- 📫 How to reach me: [Email](mailto:your-email@example.com)
+
+## My GitHub Stats
+
+![Trevino's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevino293&show_icons=true&theme=radical)
+
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## Projects
+
+Here are some of my recent projects:
+
+- [Project 1](https://github.com/trevino293/project1): A brief description of Project 1.
+- [Project 2](https://github.com/trevino293/project2): A brief description of Project 2.
+- [Project 3](https://github.com/trevino293/project3): A brief description of Project 3.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+Thank you for visiting my profile! Have a great day! 😊
