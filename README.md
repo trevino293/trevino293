@@ -1,4 +1,4 @@
-# Hi there, I'm Trevino! 👋
+# Hi there, I'm Ant! 👋
 
 Welcome to my GitHub profile!
 
@@ -32,7 +32,7 @@ Here are some of my recent projects:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/anthony-trevinoo)
+- [Twitter](https://twitter.com/antfinanceapp)
 
 Thank you for visiting my profile! Have a great day! 😊
