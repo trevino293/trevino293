@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 💼 I’m currently working on various projects in web development, data science, and more.
 - 💬 Ask me about Python, JavaScript, or any other programming-related topics.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](trevino293@gmail.com)
 
 ## My GitHub Stats
 
@@ -26,9 +26,9 @@ Welcome to my GitHub profile!
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/trevino293/project1): A brief description of Project 1.
-- [Project 2](https://github.com/trevino293/project2): A brief description of Project 2.
-- [Project 3](https://github.com/trevino293/project3): A brief description of Project 3.
+- [Simple GCP Personal Website](https://github.com/trevino293/react-professional-website-ChatGPT): A simple react website to display skills and accomplishments and some more detail than traditional resume built by ChatGPT.
+- [Cashflow Dispersion Model: An Application of the Economic Order Quantity to personal Finance]([https://github.com/trevino293/project2](https://github.com/trevino293/CFD)): Technical Paper/Theort: This paper defines a cash flow dispersion model that minimizes liquid assets inventory whilst comfortably maintaining the ability to meet periodic demand.
+- [antfinance.app](CLOSED BETA): We're revolutionizing personal finance by combining the power of community intelligence with cutting-edge technology. Our platform helps you make smarter financial decisions while maintaining complete privacy.
 
 ## Connect with Me
 
