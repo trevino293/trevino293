@@ -5,9 +5,9 @@ Welcome to my GitHub profile!
 ## About Me
 
 - 🌱 I’m currently learning new technologies and improving my coding skills.
-- 💼 I’m currently working on various projects in web development, data science, and more.
+- 💼 Working on various projects in web development, data science, and more.
 - 💬 Ask me about Python, JavaScript, or any other programming-related topics.
-- 📫 How to reach me: [Email](trevino293@gmail.com)
+- 📫 How to reach me: trevino293@gmail.com
 
 ## My GitHub Stats
 
@@ -33,6 +33,5 @@ Here are some of my recent projects:
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anthony-trevinoo)
-- [Twitter](https://twitter.com/antfinanceapp)
 
 Thank you for visiting my profile! Have a great day! 😊
