@@ -28,7 +28,7 @@ Here are some of my recent projects:
 
 - [Simple GCP Personal Website](https://github.com/trevino293/react-professional-website-ChatGPT): A simple react website to display skills and accomplishments and some more detail than traditional resume built by ChatGPT.
 - [Cashflow Dispersion Model: An Application of the Economic Order Quantity to personal Finance](https://github.com/trevino293/CFD/blob/main/CFD.pdf): Technical Paper/Theory: This paper defines a cash flow dispersion model that minimizes liquid assets inventory whilst comfortably maintaining the ability to meet periodic demand.
-- [antfinance.app](www.antfinance.app/colony-preview): We're revolutionizing personal finance by combining the power of community intelligence with cutting-edge technology. Our platform helps you make smarter financial decisions while maintaining complete privacy.
+- [antfinance.app](https://www.antfinance.app/colony-preview)We're revolutionizing personal finance by combining the power of community intelligence with cutting-edge technology. Our platform helps you make smarter financial decisions while maintaining complete privacy.
 
 ## Connect with Me
 
