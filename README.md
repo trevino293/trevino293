@@ -51,14 +51,15 @@ I'm a product-focused technology executive with deep expertise in AI, platform d
 
 ### 🎯 Featured Projects
 
-#### 🌐 [Professional Portfolio Website](https://github.com/trevino293/react-professional-website-ChatGPT)
-A modern React-based portfolio showcasing technical skills and professional accomplishments, built with AI assistance.
+#### 🐜 [antfinance.app](https://www.antfinance.app/create-account)
+Revolutionizing personal finance through community intelligence and cutting-edge technology while maintaining complete privacy.
 
 #### 💰 [Cashflow Dispersion Model](https://github.com/trevino293/CFD/blob/main/CFD.pdf)
 An innovative application of Economic Order Quantity theory to personal finance, optimizing liquid asset management.
 
-#### 🐜 [antfinance.app](https://www.antfinance.app/colony-preview)
-Revolutionizing personal finance through community intelligence and cutting-edge technology while maintaining complete privacy.
+#### 🌐 [Professional Portfolio Website](https://github.com/trevino293/react-professional-website-ChatGPT)
+A modern React-based portfolio showcasing technical skills and professional accomplishments, built with AI assistance.
+
 
 ### 🎓 Education & Certifications
 
