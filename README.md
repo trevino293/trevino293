@@ -132,22 +132,25 @@
 ---
 
 <h2 align="center">Professional Journey</h2>
+<br/>
+<div align="left">
+American Express • Manager - Product Strategy & Solution Design
+Enterprise Data Platforms & Governance (2024-Present)
 
-<div align="center">
-  <img src="https://github.com/trevino293/trevino293/blob/main/career-timeline.svg" alt="Career Timeline" />
-</div>
+Leading infrastructure modernization for 2000+ technical users, managing $50M+ in operational expenses
+Architected solutions that reduced deployment time by 40% and built governance framework for 300+ apps
 
-**American Express** (2024-Present)  
-*Manager - Product Strategy & Solution Design*  
-Leading enterprise-wide computing infrastructure modernization
+American Express • Senior Associate - Product Strategy & Solution Design
+Enterprise Data Platforms & Governance (2022-2024)
 
-**NBCUniversal** (2021)  
-*Product Owner - Peacock*  
-Designed content delivery platform for streaming services
+Built technical architecture practice for hybrid computing platforms, delivering 10 reference architectures
+Presented 25+ technical deep-dives to senior leadership, translating complex infrastructure into business value
 
-**American Express** (2019-2021, 2022-2024)  
-*Various roles in Product Strategy and Analysis*  
-Built scalable technical architecture practices
+American Express • Product Analyst - Merchant Servicing
+Global Merchant Services (2019-2021)
+
+Managed infrastructure for international servicing applications processing millions of transactions
+Reduced expired entitlements by 70% through optimization initiatives
 
 ---
 
