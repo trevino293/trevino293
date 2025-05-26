@@ -133,24 +133,38 @@
 
 <h2 align="center">Professional Journey</h2>
 <br/>
-<div align="left">
-American Express • Manager - Product Strategy & Solution Design
-Enterprise Data Platforms & Governance (2024-Present)
-
-Leading infrastructure modernization for 2000+ technical users, managing $50M+ in operational expenses
-Architected solutions that reduced deployment time by 40% and built governance framework for 300+ apps
-
-American Express • Senior Associate - Product Strategy & Solution Design
-Enterprise Data Platforms & Governance (2022-2024)
-
-Built technical architecture practice for hybrid computing platforms, delivering 10 reference architectures
-Presented 25+ technical deep-dives to senior leadership, translating complex infrastructure into business value
-
-American Express • Product Analyst - Merchant Servicing
-Global Merchant Services (2019-2021)
-
-Managed infrastructure for international servicing applications processing millions of transactions
-Reduced expired entitlements by 70% through optimization initiatives
+<table width="100%">
+  <tr>
+    <td>
+      <h3>American Express • Manager - Product Strategy & Solution Design</h3>
+      <em>Enterprise Data Platforms & Governance (2024-Present)</em>
+      <ul>
+        <li>Leading infrastructure modernization for 2000+ technical users, managing $50M+ in operational expenses</li>
+        <li>Architected solutions that reduced deployment time by 40% and built governance framework for 300+ apps</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>American Express • Senior Associate - Product Strategy & Solution Design</h3>
+      <em>Enterprise Data Platforms & Governance (2022-2024)</em>
+      <ul>
+        <li>Built technical architecture practice for hybrid computing platforms, delivering 10 reference architectures</li>
+        <li>Presented 25+ technical deep-dives to senior leadership, translating complex infrastructure into business value</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>American Express • Product Analyst - Merchant Servicing</h3>
+      <em>Global Merchant Services (2019-2021)</em>
+      <ul>
+        <li>Managed infrastructure for international servicing applications processing millions of transactions</li>
+        <li>Reduced expired entitlements by 70% through optimization initiatives</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
