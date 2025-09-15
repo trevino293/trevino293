@@ -71,7 +71,9 @@ B.S.E. Engineering Management, 2019
 <div align="center">
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=trevino293&show_icons=true&theme=minimal&hide_border=true&hide_title=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevino293&layout=compact&theme=minimal&hide_border=true&hide_title=true)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trevino293&theme=minimal&hide_border=true)
 
 </div>
