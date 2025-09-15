@@ -1,213 +1,137 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=60&section=header&fontSize=0" width="100%" />
-</div>
+# Anthony B. Trevino
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=700&lines=Anthony+Trevino;Technology+Leader+%26+AI+Researcher" alt="Typing SVG" />
-  
-  <br/>
-  
-  <a href="https://www.linkedin.com/in/anthony-trevinoo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:trevino293@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.antfinance.app/create-account">
-    <img src="https://img.shields.io/badge/Project-antfinance-2563EB?style=for-the-badge&labelColor=3B82F6" alt="antfinance" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Phoenix%2C_AZ-F59E0B?style=flat&logo=google-maps&logoColor=white&labelColor=F59E0B" alt="Location" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Georgia_Tech-B3A369?style=flat&logo=gt&logoColor=white&labelColor=B3A369" alt="Education" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/American_Express-2E77BB?style=flat&logo=american-express&logoColor=white&labelColor=2E77BB" alt="Company" />
-</div>
-
-<br/>
-
-## About
-
-I'm pursuing my **M.S. in Computer Science** at Georgia Tech while leading enterprise data platforms at **American Express**. My work focuses on building scalable systems that elegantly bridge technical innovation with business strategy.
-
-Currently managing infrastructure modernization for **2000+ users** and **$50M+ in operational initiatives**, with a passion for ethical AI research and cloud architecture.
-
-<div align="center">
-  <br/>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h4>🤖 AI Research</h4>
-        <sub>Autonomous Agents<br/>Ethical AI Systems</sub>
-      </td>
-      <td align="center" width="25%">
-        <h4>☁️ Cloud Architecture</h4>
-        <sub>Hybrid Solutions<br/>40% Faster Deployments</sub>
-      </td>
-      <td align="center" width="25%">
-        <h4>🏗️ Platform Engineering</h4>
-        <sub>Enterprise Scale<br/>300+ Applications</sub>
-      </td>
-      <td align="center" width="25%">
-        <h4>📊 Leadership</h4>
-        <sub>$50M+ Initiatives<br/>Cross-functional Teams</sub>
-      </td>
-    </tr>
-  </table>
-  <br/>
-</div>
-
-## Technical Excellence
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
-        <br>GCP
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-    </tr>
-  </table>
-</div>
-
-<details>
-<summary><b>View Complete Stack →</b></summary>
-<br/>
-
-**Infrastructure & Cloud**  
-Google Cloud Platform • Kubernetes • Docker • Terraform • Linux • Hybrid Architecture
-
-**Development**  
-Python • Java • SQL • Distributed Systems • Infrastructure as Code • API Design
-
-**AI & Data**  
-TensorFlow • PyTorch • Apache Spark • BigQuery • MLOps • Data Governance
-
-**Leadership & Process**  
-SAFe 5 PO/PM • Lean Six Sigma • Agile Transformation • Cross-functional Leadership
-
-</details>
-
-<br/>
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 antfinance.app</h3>
-      <p>Building the future of personal finance through <strong>community intelligence</strong>. A privacy-first platform revolutionizing money management.</p>
-      <a href="https://www.antfinance.app/create-account">
-        <img src="https://img.shields.io/badge/View_Project-2563EB?style=flat&logo=rocket&logoColor=white" alt="View Project" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Cashflow Dispersion Model</h3>
-      <p>Applied <strong>Economic Order Quantity theory</strong> to personal finance, creating an innovative model for liquid asset optimization.</p>
-      <a href="https://github.com/trevino293/CFD/blob/main/CFD.pdf">
-        <img src="https://img.shields.io/badge/Read_Paper-2563EB?style=flat&logo=academia&logoColor=white" alt="Read Paper" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Professional Journey
-
-**American Express** • Manager - Product Strategy & Solution Design  
-`2024 - Present` • *Enterprise Data Platforms & Governance*  
-→ Leading infrastructure modernization for 2000+ technical users  
-→ Managing $50M+ operational budget with measurable business impact  
-→ Reduced deployment time by 40% through architectural improvements  
-
-**American Express** • Senior Associate - Product Strategy & Solution Design  
-`2022 - 2024` • *Enterprise Data Platforms & Governance*  
-→ Built technical architecture practice for hybrid computing platforms  
-→ Delivered 25+ technical deep-dives to C-suite leadership  
-
-**NBCUniversal Media** • Product Owner - Peacock  
-`2021` • *Streaming Platform Infrastructure*  
-→ Designed enterprise content delivery platform  
-→ Improved system reliability by 30%  
-
-**American Express** • Product Analyst - Merchant Servicing  
-`2019 - 2021` • *Global Merchant Services*  
-→ Managed infrastructure for international applications  
-→ Reduced expired entitlements by 70%  
-
-<br/>
-
-## Education & Certifications
-
-<table>
-  <tr>
-    <td width="50%">
-      <strong>🎓 Georgia Institute of Technology</strong><br/>
-      M.S. Computer Science • AI Specialization<br/>
-      <sub>Research: Autonomous Agents & Ethics • Expected 2025</sub>
-    </td>
-    <td width="50%">
-      <strong>🎓 Arizona State University</strong><br/>
-      B.S.E. Engineering Management<br/>
-      <sub>Statistics Minor • GPA: 3.52/4.0</sub>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SAFe_5-PO/PM-0B5394?style=flat" alt="SAFe" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Six_Sigma-Green_Belt-009688?style=flat" alt="Six Sigma" />
-</div>
-
-<br/>
+**AI Product Executive & Technical Leader**  
+Phoenix, Arizona | [LinkedIn](https://www.linkedin.com/in/anthony-trevinoo) | [Email](mailto:trevino293@gmail.com)
 
 ---
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=trevino293&show_icons=true&count_private=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=2D3748&bg_color=00000000" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=trevino293&theme=default&hide_border=true&stroke=E5E7EB&ring=2563EB&fire=F59E0B&currStreakNum=2563EB&sideNums=6B7280&currStreakLabel=2563EB&sideLabels=6B7280&dates=6B7280&background=00000000" alt="GitHub Streak" />
-</div>
+## Executive Summary
 
-<br/>
+Technology leader specializing in enterprise AI platform architecture and ML infrastructure at scale. Currently driving AI transformation initiatives at **American Express**, managing $50M+ operational budget while architecting solutions for 2,000+ technologists across 300+ applications.
 
-<div align="center">
-  <em>"Building technology that scales elegantly and serves purposefully."</em>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=trevino293&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views" />
-</div>
+**Core Expertise:** AI/ML Platform Development • Cloud Architecture • Enterprise Governance • Product Strategy
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=60&section=footer&fontSize=0" width="100%" />
-</div>
+---
+
+## Professional Experience
+
+### American Express
+**Manager - Product Strategy & Solution Design**  
+*Enterprise Data and AI Platforms* | 2024 - Present
+
+- Architecting enterprise ML platform serving 2,000+ technologists, achieving 40% reduction in deployment time
+- Leading $50M infrastructure modernization initiative with comprehensive AI governance framework
+- Designed privacy-preserving data infrastructure supporting 20PB+ compliant AI model training
+- Establishing technical standards for responsible AI deployment across 300+ applications
+
+**Senior Associate - Platform Architecture**  
+*Enterprise Data and AI Platforms* | 2022 - 2024
+
+- Built hybrid cloud architecture practice delivering 10+ production AI/ML platform designs
+- Influenced C-suite technical strategy through 25+ executive presentations on AI capabilities
+- Established best practices for enterprise-scale ML model deployment and monitoring
+
+### NBCUniversal Media
+**Product Owner - Peacock Streaming Platform** | 2021
+
+- Managed content delivery infrastructure supporting millions of concurrent users
+- Improved platform reliability by 30% through automated deployment pipelines and SOX-compliant controls
+
+---
+
+## Technical Leadership
+
+### Featured Projects
+
+**Graph-Based AI Context Management System** | 2025  
+Pioneering implementation of Model Context Protocol (MCP) with graph databases for enhanced AI agent memory and context management. Leveraging Neo4j and vector embeddings to create intelligent knowledge graphs that improve LLM response accuracy and contextual understanding.
+
+**antfinance.app** | Founder, 2024 - Present  
+AI-powered personal finance platform utilizing real-time ML predictions and community intelligence. Built on GCP with TensorFlow serving infrastructure, processing 100K+ transactions daily.
+
+**Enterprise AI Governance Framework** | American Express, 2024  
+Comprehensive framework establishing company-wide standards for responsible AI deployment, data privacy, and model risk management.
+
+### Research Contributions
+
+**Cashflow Dispersion Model** | [Publication](https://github.com/trevino293/CFD/blob/main/CFD.pdf)  
+Applied Economic Order Quantity theory to personal finance optimization, developing novel algorithms for liquid asset management.
+
+**Human Augmented Analytics Group** | Director of Ethics, 2024 - Present  
+Leading initiatives on ethical AI implementation and bias mitigation in enterprise systems.
+
+---
+
+## Education
+
+**Georgia Institute of Technology**  
+M.S. Computer Science - Artificial Intelligence Specialization | 2025  
+*Research Focus: Distributed AI Frameworks, Reinforcement Learning from Human Feedback, AI Ethics*
+
+**Arizona State University**  
+B.S.E. Engineering Management, Statistics Minor | 2019  
+*GPA: 3.52/4.0*
+
+---
+
+## Technical Stack
+
+**AI/ML Infrastructure**  
+TensorFlow • PyTorch • Vertex AI • MLOps • Model Serving • Feature Stores • Graph Databases (Neo4j)
+
+**Cloud & Platform**  
+Google Cloud Platform (Professional Cloud Architect) • AWS • Kubernetes • Docker • Terraform
+
+**Data Engineering**  
+Apache Spark • BigQuery • Streaming Architecture • Data Mesh • Model Context Protocol (MCP)
+
+**Languages & Tools**  
+Python • Java • SQL • Linux • Infrastructure as Code • GitOps
+
+---
+
+## Certifications & Methodologies
+
+- Google Professional Cloud Architect
+- SAFe 5 Product Owner/Product Manager
+- Lean Six Sigma Green Belt
+- Certified in Enterprise Risk Management
+
+---
+
+## Open Source Contributions
+
+Active contributor to AI infrastructure and MLOps projects. Focus areas include:
+- Distributed training frameworks
+- Model versioning and governance tools
+- Privacy-preserving ML techniques
+- Graph-based context management for LLMs
+
+---
+
+## Speaking & Thought Leadership
+
+Regular speaker on AI platform architecture and enterprise ML adoption. Topics include:
+- Scaling AI Infrastructure for Enterprise
+- Graph Databases in Modern AI Applications
+- Privacy-Preserving Machine Learning
+- Building Responsible AI Governance Frameworks
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trevino293&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+
+---
+
+### Connect
+
+For collaboration opportunities or technical discussions:
+- **Email:** trevino293@gmail.com
+- **LinkedIn:** [anthony-trevinoo](https://www.linkedin.com/in/anthony-trevinoo)
+- **Project:** [antfinance.app](https://www.antfinance.app)
+
+---
+
+*"Building intelligent systems that scale elegantly and serve purposefully."*
