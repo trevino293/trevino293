@@ -19,7 +19,7 @@ current_projects = {
     "work": "Enterprise Data & AI @ American Express",
     "research": "Model Context Protocol + Neo4j for persistent AI memory",
     "side1": "antfinance.app - community-driven financial intelligence",
-    "side2": "neuralbets.ai - AI UFC Fight Analytsis and Prediction",
+    "side2": "neuralbets.ai - AI UFC Fight Analysis and Prediction",
     "scale": "2,000+ users, 300+ applications, $50M+ initiatives"
 }
 ```
