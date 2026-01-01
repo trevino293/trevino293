@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-trevinoo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trevino293@gmail.com)
 [![antfinance.app](https://img.shields.io/badge/-antfinance.app-000?style=flat)](https://www.antfinance.app)
-[![neuralbets.ai](https://img.shields.io/badge/-neuralbets.ai-000?style=flat)](https://www.neuralbets.ai)
 
 ---
 
