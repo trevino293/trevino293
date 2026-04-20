@@ -36,9 +36,6 @@ MCP implementation with Neo4j for intelligent agent memory. 3x improvement in LL
 **Enterprise AI Platform** `2024-Present`  
 Architected ML platform serving 2,000+ technologists. 40% faster deployment across 300+ AI applications and 20PB+ data infrastructure.
 
-**antfinance.app** `2024-Present`  
-AI-powered personal finance platform processing 100K+ daily transactions.
-
 **Cashflow Dispersion Model** `2024`  
 [Novel application](https://github.com/trevino293/CFD/blob/main/CFD.pdf) of EOQ theory to personal finance optimization.
 
