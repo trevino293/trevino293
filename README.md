@@ -1,5 +1,5 @@
 # Anthony Trevino
-**AI Engineering Leader** • Phoenix, AZ
+**AI Engineer | Bridging Engineering & Product** • Phoenix, AZ
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-trevinoo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trevino293@gmail.com)
@@ -8,7 +8,7 @@
 
 ### Current Focus
 
-Building GenAI applications and enterprise AI platforms. Hands-on with **MCP servers**, **LLM automation**, **graph databases**, and **RAG pipelines** at scale.
+Bridging hands-on AI engineering with product and strategy ownership — deciding what to build, then building it. Currently prototyping agentic systems (**MCP servers**, **RAG pipelines**, **LLM automation**) for enterprise AI platforms.
 
 ---
 
@@ -18,13 +18,14 @@ Building GenAI applications and enterprise AI platforms. Hands-on with **MCP ser
 **AI/ML:** LangChain · RAG · MCP · LLMs · Agent Frameworks · PyTorch · TensorFlow · MLOps  
 **Infrastructure:** GCP (Certified Architect) · AWS · Kubernetes · Docker · Terraform  
 **Data:** Neo4j · Vector DBs · BigQuery · Apache Spark  
+**Product & Leadership:** Product Strategy · Prioritization · Stakeholder Management · SAFe 5 PO/PM · Scrum
 
 ---
 
 ### Notable Work
 
 **MCP Server for Agentic Data Access** `2025`  
-Built POC enabling LLM and agent access to enterprise metadata, policy files, and data products. Positioning the Lumi platform as an applied AI accelerator.
+Identified the need and prioritized building an MCP server POC enabling LLM and agent access to enterprise metadata, policy files, and data products — positioning the Lumi platform as an applied AI accelerator.
 
 **LLM-Powered Metadata Classification** `2025`  
 Engineered a system using LangChain, vector DBs, and graph DBs that cut manual sensitive data definition from 3+ weeks to under 5 minutes at 80%+ accuracy.
@@ -55,6 +56,5 @@ B.S.E. Engineering Management - 2019
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=trevino293&show_icons=true&theme=minimal&hide_border=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevino293&layout=compact&theme=minimal&hide_border=true&hide_title=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trevino293&theme=minimal&hide_border=true)
 
 </div>
