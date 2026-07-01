@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-trevinoo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trevino293@gmail.com)
 
----
+<img src="./tuxedo_cat_divider.svg" width="100%" alt="" />
 
 ### Current Focus
 
@@ -49,12 +49,3 @@ Research: Multi-Agent Systems, AI Ethics, RLHF
 
 **Arizona State University**  
 B.S.E. Engineering Management - 2019
-
----
-
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=trevino293&show_icons=true&theme=minimal&hide_border=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevino293&layout=compact&theme=minimal&hide_border=true&hide_title=true)
-
-</div>
