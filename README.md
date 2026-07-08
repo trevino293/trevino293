@@ -8,7 +8,7 @@
 
 ### Current Focus
 
-Bridging hands-on AI engineering with product and strategy ownership — deciding what to build, then building it. Currently prototyping agentic systems (**MCP servers**, **RAG pipelines**, **LLM automation**) for enterprise AI platforms.
+Bridging hands-on AI engineering with product and strategy ownership — deciding what to build, then building it. Currently building agentic systems (**MCP servers**, **RAG pipelines**, **LLM automation**) for enterprise AI platforms.
 
 ---
 
