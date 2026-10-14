@@ -1,5 +1,5 @@
 # Anthony Trevino
-**AI Engineer | Bridging Engineering & Product** • Phoenix, AZ
+**AI Engineer | Data Engineering & Information Security** • Phoenix, AZ
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-trevinoo)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:trevino293@gmail.com)
